@@ -1,0 +1,60 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+div {
+  text-align: left;
+}
+h1 {
+  color: green;
+}
+
+img {
+  float: left;
+}
+h1 {
+  font-size: 200%;
+}
+
+
+
+div.c {
+  font-size: 185%;
+}
+
+div.c {
+  font-family: Georgia, sans-serif;
+}
+
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ ul {
+   font-size: 20px;
+ }
+ul{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+         a:link {
+          text-decoration: none;
+      }
+      a:visited {
+          text-decoration: none;
+      }
+      a:hover {
+          text-decoration: underline;
+      }
+      a:active {
+          text-decoration: underline;
+      }
+    
