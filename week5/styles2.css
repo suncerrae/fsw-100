@@ -28,19 +28,19 @@
   
   @media only screen and (min-width: 1200px) {
     .top {
-      grid-column: 1/4;
+      grid-column: 1/6;
     }
     .sidebar-left{
       grid-column: 1/2;
     }
     .middle{
-      grid-column:2/3;
+      grid-column:2/5;
     }
     .sidebar-right{
-      grid-column: 3/4;
+      grid-column: 5/6;
     }
     .bottom {
-      grid-column: 1/4;
+      grid-column: 1/6;
     }
   }
   
