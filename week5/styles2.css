@@ -16,7 +16,7 @@
       grid-column: 1/2;
     }
     .middle{
-      grid-column:2/4;
+      grid-column:2/6;
     }
     .sidebar-right{
       grid-column: 1/4;
@@ -94,3 +94,5 @@
     justify-content: center;
     height: 25vh;
   } 
+
+ 
